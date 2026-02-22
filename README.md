@@ -37,11 +37,7 @@ I don't build websites. I build **revenue engines** — Shopify storefronts, AI 
 
 ## GitHub Stats
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilvzn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=sahilvzn&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilvzn&theme=dark&hide_border=true&layout=compact)
-
----
 
 ## Connect
 
